@@ -9,4 +9,4 @@ The level can be tuned arbitrarily.
 Symmetries can be incorporated, but it is a bit inconvenient. 
 It normalises away the final projector in each measurement.
 
-Main file: `launch_hierarchy.mat
+Main file: `launch_hierarchy.mat`
