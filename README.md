@@ -1,4 +1,4 @@
-# arXiv-2103.10748-Supplementary-MATLAB-codes
+# arXiv-2103.10748/arXiv:2108.00442-Supplementary-MATLAB-codes
 This repository contains all MATLAB codes used to derive results in arXiv:2103.10748 and arXiv:2108.00442.
 
 - "Information hierarchy-EAC" contains our implementation of the information hierarchy to bound entanglement-assisted quantum and classical communication
